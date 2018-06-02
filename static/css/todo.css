@@ -1,0 +1,31 @@
+h1 {
+    font-size: 100px;
+    color: darkgray;
+    font-family: Helvetica;
+}
+
+form {
+    color: white;
+    display: inline-flex;
+}
+
+form > input {
+    font-size: 14px;
+}
+
+form > button {
+    color: black ;
+    border-color: lightblue;
+    background-color: lightblue;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.done {
+    font-size: 24px;
+    background-color: lightblue;
+    border-radius: 10px;
+    border-color: lightblue;
+    color: black;
+}
